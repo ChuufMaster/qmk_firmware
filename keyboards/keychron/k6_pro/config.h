@@ -88,3 +88,9 @@
 /* Factory test keys */
 #define FN_KEY1 MO(2)
 #define FN_KEY2 MO(3)
+
+#define TAPPING_TERM 200
+#define IGNORE_MOD_TAP_INTERRUPT
+#define TAPPING_TERM_PER_KEY
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
